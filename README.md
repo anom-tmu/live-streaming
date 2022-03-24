@@ -1,2 +1,3 @@
-# live-streaming
-Sending live video/camera frame over network in python and opencv
+# live-streaming multiple camera
+
+Sending live multiple camera (video) frame over network in python and opencv
